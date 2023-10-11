@@ -1,0 +1,5 @@
+# IDE's project files
+.idea
+
+# Logs
+/logs.txt

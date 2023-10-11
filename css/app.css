@@ -1,0 +1,16 @@
+.nav-link {
+    border-radius: 0 !important;
+}
+
+.table-dark {
+    --bs-table-bg: #0e6efd;
+    --bs-table-border-color: #0e6efd;
+}
+
+th, td {
+    padding: 1rem 0.5rem !important;
+}
+
+button, input {
+    border-radius: 0 !important;
+}
